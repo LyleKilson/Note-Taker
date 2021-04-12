@@ -31,4 +31,5 @@ Note Taker is also available on **Heroku** through this [live link]().
 ### Application Preview
 **N/A**
 
+### Contributions
 
