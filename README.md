@@ -29,7 +29,12 @@ After the application port is active open your default browser and navigate to `
 Note Taker is also available on **Heroku** through this [live link](https://shrouded-anchorage-40032.herokuapp.com).
 
 ### Application Preview
+
+Landing Page
 ![/](./images/index.png)
+
+Note taking example
+![/](./images/notes.png)
 
 ### Contributions
 Kyle Wilson
