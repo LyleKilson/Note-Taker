@@ -28,4 +28,7 @@ After the application port is active open your default browser and navigate to `
 ### Deployed Link
 Note Taker is also available on **Heroku** through this [live link]().
 
+### Application Preview
+**N/A**
+
 
