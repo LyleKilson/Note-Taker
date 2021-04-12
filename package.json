@@ -12,13 +12,14 @@
     "url": "git+https://github.com/LyleKilson/note-taker.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Kyle Wilson",
+  "license": "MIT License",
   "bugs": {
     "url": "https://github.com/LyleKilson/note-taker/issues"
   },
   "homepage": "https://github.com/LyleKilson/note-taker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
   }
 }

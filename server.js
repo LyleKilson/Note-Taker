@@ -6,12 +6,10 @@ const { v4: uuidv4 } = require("uuid"); // To give each note a unique id when it
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Sets up the Express app to handle data parsing
+app.use(express.static("public"));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// Serve static assets
-app.use(express.static("public"));
 
 //  HTML Routes
 app.get("/", (req, res) => {
