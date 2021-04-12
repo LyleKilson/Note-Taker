@@ -26,7 +26,7 @@ Enter the command `npm i` to install the applications dependencies. To run the a
 After the application port is active open your default browser and navigate to `http://localhost:3001`.
 
 ### Deployed Link
-Note Taker is also available on **Heroku** through this [live link](https://shrouded-anchorage-40032.herokuapp.com/notes).
+Note Taker is also available on **Heroku** through this [live link](https://shrouded-anchorage-40032.herokuapp.com).
 
 ### Application Preview
 ![/](./public/assets/images/index.png)
