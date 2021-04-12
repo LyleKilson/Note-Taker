@@ -3,18 +3,24 @@
   "version": "1.0.0",
   "description": "## Description Note Taker is a simplistic text input application that allows the user to input and save text that consists of a title and body into a database. Note Taker is an easy, safe, and quick way to access and store any text into an efficient database!",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "jest",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LyleKilson/note-taker.git"
   },
-  "author": "Kyle Wilson",
-  "license": "MIT License",
-  "dependencies": {
-    "express": "^4.17.1",
-    "uuid": "^8.3.2"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyleKilson/note-taker/issues"
+  },
+  "homepage": "https://github.com/LyleKilson/note-taker#readme"
 }

@@ -1,11 +1,11 @@
 const express = require("express");
 const path = require("path");
 const fs = require("fs");
-const notesdb = require("./db/db.json");
+const notesdb = require("./db/db");
 const { v4: uuidv4 } = require("uuid"); // To give each note a unique id when it's saved
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
