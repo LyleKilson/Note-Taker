@@ -22,14 +22,14 @@ git clone https://github.com/LyleKilson/note-taker/.git
 ```
 Navigate to the note-taker directory in the terminal.
 
-Enter the command `npm install` to install the applications dependencies. To run the application from your command line locally enter the command `node server.js`. 
-After the application port is active open your default browser and navigate to `http://localhost:3000`.
+Enter the command `npm i` to install the applications dependencies. To run the application from your command line locally enter the command `npm start`. 
+After the application port is active open your default browser and navigate to `http://localhost:3001`.
 
 ### Deployed Link
 Note Taker is also available on **Heroku** through this [live link](https://shrouded-anchorage-40032.herokuapp.com/notes).
 
 ### Application Preview
-**N/A**
+![/](./public/assets/images/index.png)
 
 ### Contributions
-
+Kyle Wilson
