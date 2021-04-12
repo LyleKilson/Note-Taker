@@ -16,5 +16,6 @@ Note Taker is a simplistic text input application that allows the user to input 
 
 ### Install
 Clone the repository to your local development enviroment.
-`git clone https://github.com/LyleKilson/note-taker/.git`
+
+**`git clone https://github.com/LyleKilson/note-taker/.git`**
 
